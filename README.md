@@ -3,9 +3,9 @@
 We run a recorded Twitter Space with somewhat regular cadence on Mondays.  Here
 are the Spaces we've done, in reverse chronological order:
 
-| Date | Title | Notes |
+| Date | Recording | Notes |
 | ---- | ----- | ----- |
-| July 26, 2021 | [Agile + 20](https://youtu.be/3tp5EtPdPwY) | ([Notes](./2021_07_26.md) |
+| July 26, 2021 | [Agile + 20](https://youtu.be/3tp5EtPdPwY) | [Notes](./2021_07_26.md) |
 | July 5, 2021 | [NeXT, Objective-C, and contrasting histories](https://youtu.be/2H9XQBdLB0Y) | [Notes](./2021_07_05.md) |
 | June 21, 2021 | [What's a bug? What's a debugger?](https://youtu.be/UOucW3F7nCg) | [Notes](./2021_06_21.md) |
 | June 7, 2021 | [Barracuda 7200.11: broken firmware is broken software!](https://youtu.be/qisoAIx8EE8) | [Notes](./2021_06_07.md) |

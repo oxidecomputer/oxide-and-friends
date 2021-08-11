@@ -1,4 +1,6 @@
-# Twitter Space on MM DD, 20YY
+# Oxide and Friends Twitter Space: MM DD, 20YY
+
+## Snazzy title
 
 We've been holding a Twitter Space weekly on Mondays at 5p for about an hour.
 Even though it's not (yet?) a feature of Twitter Spaces, we have been
@@ -16,6 +18,8 @@ and [YY]().
 Some of the topics we hit on, in order that we hit them:
 
 - [Topic](link)
+- [@M:SS](link into recording)
+  *Leventhal's Conundrum*
 - PRs needed!
 
 If we got something wrong or missed something, please file a PR!
