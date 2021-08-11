@@ -2,7 +2,9 @@
 
 We run a recorded [Twitter
 Space](https://help.twitter.com/en/using-twitter/spaces)
-with somewhat regular cadence on Mondays.  Here
+with somewhat regular cadence on Mondays (and here's why
+[we're bullish on Spaces](http://dtrace.org/blogs/bmc/2021/05/02/twitter-spaces-a-few-weeks-in/)).
+Here
 are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
