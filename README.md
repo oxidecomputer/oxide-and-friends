@@ -1,9 +1,10 @@
 # Oxide and Friends Twitter Spaces
 
-We run a recorded [Twitter
+[We're bullish on
+Spaces](http://dtrace.org/blogs/bmc/2021/05/02/twitter-spaces-a-few-weeks-in/)
+and have been running a recorded [Twitter
 Space](https://help.twitter.com/en/using-twitter/spaces)
-with somewhat regular cadence on Mondays (and here's why
-[we're bullish on Spaces](http://dtrace.org/blogs/bmc/2021/05/02/twitter-spaces-a-few-weeks-in/)).
+with somewhat regular cadence on Mondays at 5p Pacific.
 Here
 are the Spaces we've done, in reverse chronological order:
 
