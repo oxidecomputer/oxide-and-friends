@@ -1,6 +1,6 @@
 # Oxide and Friends Twitter Spaces
 
-[We're bullish on
+[We're pretty excited about 
 Spaces](http://dtrace.org/blogs/bmc/2021/05/02/twitter-spaces-a-few-weeks-in/)
 and have been running a recorded [Twitter
 Space](https://help.twitter.com/en/using-twitter/spaces)
