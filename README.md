@@ -1,6 +1,11 @@
 # Oxide and Friends Twitter Spaces
 
-We run a recorded Twitter Space with somewhat regular cadence on Mondays.  Here
+[We're pretty excited about 
+Spaces](http://dtrace.org/blogs/bmc/2021/05/02/twitter-spaces-a-few-weeks-in/)
+and have been running a recorded [Twitter
+Space](https://help.twitter.com/en/using-twitter/spaces)
+with somewhat regular cadence on Mondays at 5p Pacific.
+Here
 are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
@@ -15,6 +20,6 @@ are the Spaces we've done, in reverse chronological order:
 | May 10, 2021 | [A Requiem for SPARC with Tom Lyon](https://youtu.be/79NNXn5Kr90) | [Notes](./2021_05_10.md) |
 | May 3, 2021 | [Mr. Leventhal, Come here I want to see you](https://youtu.be/h-WSU3kiXVg) | [Notes](./2021_05_03.md) |
 
-This repository hold the show notes for our Twitter Spaces recordings.
+This repository holds the show notes for our Twitter Spaces recordings.
 Show notes are crowd-sourced--PRs aren't just welcome, we depend on them!
 
