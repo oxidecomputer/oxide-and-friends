@@ -10,6 +10,7 @@ are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ----- | ----- |
+| August 30, 2021 | [A brief history of talking computers](https://youtu.be/b9GVJg0LRX4) | [Notes](./2021_08_30.md) |
 | August 23, 2021 | [The episode formerly known as ℔](https://www.youtube.com/watch?v=-ZRv6EHaQYM) | [Notes](./2021_08_23.md) |
 | August 16, 2021 | [The Showstopper Show](https://youtu.be/hlQuF75L4TE) | [Notes](./2021_08_16.md) |
 | July 26, 2021 | [Agile + 20](https://youtu.be/3tp5EtPdPwY) | [Notes](./2021_07_26.md) |
