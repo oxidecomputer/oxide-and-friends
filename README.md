@@ -10,6 +10,7 @@ are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ----- | ----- |
+| September 13th, 2021| [The Docker Inc. post-mortem](https://youtu.be/l9LTJdT0sZ8) | [Notes](./2021_09_13.md) |
 | September 6th, 2021| [Put the OS back in OSDI](https://youtu.be/PVJfqjJJCkg) | [Notes](./2021_09_06.md) |
 | August 30, 2021 | [A brief history of talking computers](https://youtu.be/b9GVJg0LRX4) | [Notes](./2021_08_30.md) |
 | August 23, 2021 | [The episode formerly known as ℔](https://www.youtube.com/watch?v=-ZRv6EHaQYM) | [Notes](./2021_08_23.md) |
