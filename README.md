@@ -10,6 +10,7 @@ are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ----- | ----- |
+| September 20th, 2021| [Theranos, Silicon Valley, and the March Madness of Tech Fraud](https://youtu.be/YWdk9CKML2g) | [Notes](./2021_09_20.md) |
 | September 13th, 2021| [The Docker Inc. post-mortem](https://youtu.be/l9LTJdT0sZ8) | [Notes](./2021_09_13.md) |
 | September 6th, 2021| [Put the OS back in OSDI](https://youtu.be/PVJfqjJJCkg) | [Notes](./2021_09_06.md) |
 | August 30, 2021 | [A brief history of talking computers](https://youtu.be/b9GVJg0LRX4) | [Notes](./2021_08_30.md) |
