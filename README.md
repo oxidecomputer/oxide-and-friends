@@ -10,6 +10,7 @@ are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ----- | ----- |
+| October 18th, 2021 | [Dijkstra's Tweetstorm](https://youtu.be/D-Uzo7M-ioQ) | [Notes](./2021_10_18.md) |
 | October 4th, 2021 | [Economics and Open Source](https://youtu.be/JDd8xGSP9DA) | [Notes](./2021_10_04.md) |
 | September 27th, 2021 | [The Books in the Box](https://youtu.be/zrZAHO89XGk) | [Notes](./2021_09_27.md) |
 | September 20th, 2021 | [Theranos, Silicon Valley, and the March Madness of Tech Fraud](https://youtu.be/YWdk9CKML2g) | [Notes](./2021_09_20.md) |
