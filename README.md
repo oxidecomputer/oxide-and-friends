@@ -10,6 +10,7 @@ are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ----- | ----- |
+| November 15th, 2021 | [The Wrath of Kahn](https://youtu.be/oft5i5RzIC8) | [Notes](./2021_11_15.md) |
 | November 8th, 2021 | [Supercomputers, Cray, and How Sun Picked SGI's Pocket](https://youtu.be/y07PyBrrzMw) | [Notes](./2021_11_08.md) |
 | November 1st, 2021 | [On Code Review](https://youtu.be/JZdXDyeSvtc) | [Notes](./2021_11_01.md) |
 | October 25th, 2021 | [Coder's Block](https://youtu.be/QGs5hlH6cLk) | [Notes](./2021_10_25.md) |
