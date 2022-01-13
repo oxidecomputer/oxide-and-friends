@@ -10,6 +10,7 @@ are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| January 10th, 2022 | [Flying Blind with Peter Robison](https://youtu.be/q6i9NPslfE4) | [Notes](./2022_01_10.md) |
 | January 3rd, 2022 | [Predictions 2022](https://youtu.be/uZylf2gbg_E) | [Notes](./2022_01_03.md) |
 | December 13th, 2021 | [The Pragmatism of Hubris](https://youtu.be/cypmufnPfLw) | [Notes](./2021_12_13.md) |
 | December 6th, 2021 | [Tales from the Bringup Lab](https://www.youtube.com/watch?v=lhji-kP3Lhk) | [Notes](./2021_12_06.md) |
