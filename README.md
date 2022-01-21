@@ -9,9 +9,11 @@ Here
 are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
-| ---- | ----- | ----- |
-| December 13th, 2021| [The Pragmatism of Hubris](https://youtu.be/cypmufnPfLw) | [Notes](./2021_12_13.md) |
-| December 6th, 2021| [Tales from the Bringup Lab](https://www.youtube.com/watch?v=lhji-kP3Lhk) | [Notes](./2021_12_06.md) |
+| ---- | ---- | ---- |
+| January 10th, 2022 | [Flying Blind with Peter Robison](https://youtu.be/q6i9NPslfE4) | [Notes](./2022_01_10.md) |
+| January 3rd, 2022 | [Predictions 2022](https://youtu.be/uZylf2gbg_E) | [Notes](./2022_01_03.md) |
+| December 13th, 2021 | [The Pragmatism of Hubris](https://youtu.be/cypmufnPfLw) | [Notes](./2021_12_13.md) |
+| December 6th, 2021 | [Tales from the Bringup Lab](https://www.youtube.com/watch?v=lhji-kP3Lhk) | [Notes](./2021_12_06.md) |
 | November 29nd, 2021 | [The Sidecar Switch](https://youtu.be/yl24yHlLRy0) | [Notes](./2021_11_29.md) |
 | November 22nd, 2021 | [Talking Turkeys](https://youtu.be/U10SuAHV8kQ) | [Notes](./2021_11_22.md) |
 | November 15th, 2021 | [The Wrath of Kahn](https://youtu.be/oft5i5RzIC8) | [Notes](./2021_11_15.md) |
