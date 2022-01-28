@@ -10,6 +10,7 @@ are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| January 24th, 2022 | [Taxonomy of Hype](https://youtu.be/qrWgmkBfn9s) | [Notes](./2022_01_24.md) |
 | January 10th, 2022 | [Flying Blind with Peter Robison](https://youtu.be/q6i9NPslfE4) | [Notes](./2022_01_10.md) |
 | January 3rd, 2022 | [Predictions 2022](https://youtu.be/uZylf2gbg_E) | [Notes](./2022_01_03.md) |
 | December 13th, 2021 | [The Pragmatism of Hubris](https://youtu.be/cypmufnPfLw) | [Notes](./2021_12_13.md) |
