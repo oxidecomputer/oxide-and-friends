@@ -5,11 +5,11 @@ Spaces](http://dtrace.org/blogs/bmc/2021/05/02/twitter-spaces-a-few-weeks-in/)
 and have been running a recorded [Twitter
 Space](https://help.twitter.com/en/using-twitter/spaces)
 with somewhat regular cadence on Mondays at 5p Pacific.
-Here
-are the Spaces we've done, in reverse chronological order:
+Here are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| February 14th, 2022| [Breakthroughs Delayed](https://youtu.be/MyGgkBxz-mg) | [Notes](./2022_02_14.md) |
 | February 7th, 2022| [I Know This!](https://youtu.be/WsvJT6i_atw) | [Notes](./2022_02_07.md) |
 | January 24th, 2022 | [Taxonomy of Hype](https://youtu.be/qrWgmkBfn9s) | [Notes](./2022_01_24.md) |
 | January 10th, 2022 | [Flying Blind with Peter Robison](https://youtu.be/q6i9NPslfE4) | [Notes](./2022_01_10.md) |
