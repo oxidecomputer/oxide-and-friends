@@ -9,6 +9,7 @@ Here are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| February 21th, 2022| [Engineering Culture](https://youtu.be/w9MQJbC26h4) | [Notes](./2022_02_21.md) |
 | February 14th, 2022| [Breakthroughs Delayed](https://youtu.be/MyGgkBxz-mg) | [Notes](./2022_02_14.md) |
 | February 7th, 2022| [I Know This!](https://youtu.be/WsvJT6i_atw) | [Notes](./2022_02_07.md) |
 | January 24th, 2022 | [Taxonomy of Hype](https://youtu.be/qrWgmkBfn9s) | [Notes](./2022_01_24.md) |
