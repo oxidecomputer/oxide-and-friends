@@ -9,6 +9,7 @@ Here are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| March 7th, 2022| [The Future of Work](https://youtu.be/GTluipbKeII) | [Notes](./2022_03_07.md) |
 | February 21th, 2022| [Engineering Culture](https://youtu.be/w9MQJbC26h4) | [Notes](./2022_02_21.md) |
 | February 14th, 2022| [Breakthroughs Delayed](https://youtu.be/MyGgkBxz-mg) | [Notes](./2022_02_14.md) |
 | February 7th, 2022| [I Know This!](https://youtu.be/WsvJT6i_atw) | [Notes](./2022_02_07.md) |
