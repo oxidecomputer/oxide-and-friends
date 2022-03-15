@@ -9,6 +9,7 @@ Here are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| March 14th, 2022| [Ukraine](https://youtu.be/EdJU8mSWzQk) | [Notes](./2022_03_14.md) |
 | March 7th, 2022| [The Future of Work](https://youtu.be/GTluipbKeII) | [Notes](./2022_03_07.md) |
 | February 21th, 2022| [Engineering Culture](https://youtu.be/w9MQJbC26h4) | [Notes](./2022_02_21.md) |
 | February 14th, 2022| [Breakthroughs Delayed](https://youtu.be/MyGgkBxz-mg) | [Notes](./2022_02_14.md) |
