@@ -5,6 +5,7 @@ Spaces](http://dtrace.org/blogs/bmc/2021/05/02/twitter-spaces-a-few-weeks-in/)
 and have been running a recorded [Twitter
 Space](https://help.twitter.com/en/using-twitter/spaces)
 with somewhat regular cadence on Mondays at 5p Pacific.
+Recordings are available everywhere where you can get quality podcasts and through our [![RSS feed](https://img.shields.io/badge/RSS-Feed-green)](https://feeds.transistor.fm/oxide-and-friends).  
 Here are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
