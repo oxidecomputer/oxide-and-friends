@@ -1,6 +1,6 @@
 # Oxide and Friends Twitter Spaces
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFn4S3OexFT9YhxJ8GWdUYQ?style=flat-square)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFn4S3OexFT9YhxJ8GWdUYQ?style=flat-square)](https://www.youtube.com/channel/UCFn4S3OexFT9YhxJ8GWdUYQ)
 [![RSS feed](https://img.shields.io/badge/RSS-Feed-green?style=flat-square)](https://feeds.transistor.fm/oxide-and-friends)
 
 [We're pretty excited about 
