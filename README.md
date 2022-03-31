@@ -1,14 +1,21 @@
 # Oxide and Friends Twitter Spaces
 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFn4S3OexFT9YhxJ8GWdUYQ?style=flat-square)
+[![RSS feed](https://img.shields.io/badge/RSS-Feed-green?style=flat-square)](https://feeds.transistor.fm/oxide-and-friends)
+
 [We're pretty excited about 
 Spaces](http://dtrace.org/blogs/bmc/2021/05/02/twitter-spaces-a-few-weeks-in/)
 and have been running a recorded [Twitter
 Space](https://help.twitter.com/en/using-twitter/spaces)
 with somewhat regular cadence on Mondays at 5p Pacific.
+
+Recordings are available on [YouTube](https://www.youtube.com/channel/UCFn4S3OexFT9YhxJ8GWdUYQ) shortly after the live shows from which we crowdsource show notes (PRs welcome!); once show notes are reasonably populated, we distribute recordings everywhere where you can get quality podcasts and through our [RSS feed](https://feeds.transistor.fm/oxide-and-friends).
+
 Here are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| March 28th, 2022| [Time, Timezones, Metric Time, Losing and Saving](https://youtu.be/BHtfqleSHAs) | [Notes](./2022_03_28.md) |
 | March 21st, 2022| [Trolltron, Assemble!](https://youtu.be/WrEef_bsWas) | [Notes](./2022_03_21.md) |
 | March 14th, 2022| [Ukraine](https://youtu.be/EdJU8mSWzQk) | [Notes](./2022_03_14.md) |
 | March 7th, 2022| [The Future of Work](https://youtu.be/GTluipbKeII) | [Notes](./2022_03_07.md) |
