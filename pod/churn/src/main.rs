@@ -54,7 +54,7 @@ fn main() {
                     show_id: "29256".to_string(),
                     description,
                     number: format!("{}", n + 1),
-                    season: "1".to_string(),
+                    season: "2".to_string(),
                     typ: "full".to_string(),
                     title: format!("{} ({})", title, date.format("%Y-%m-%d")),
                 },
