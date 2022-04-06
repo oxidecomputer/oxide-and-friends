@@ -1,4 +1,4 @@
-use std::{collections::BTreeMap, path::Path};
+use std::collections::BTreeMap;
 
 use chrono::{Local, TimeZone};
 use regex::Regex;
@@ -8,7 +8,9 @@ use serde::Serialize;
 struct Episode {
     show_id: String,
     description: String,
-    number: String,
+    // I believe this is autoincremented if none
+    #[serde(skip_serializing_if = "Option::is_none")]
+    number: Option<String>,
     season: String,
     #[serde(rename = "type")]
     typ: String,
@@ -26,7 +28,7 @@ fn main() {
     let sodes = data.lines();
     let all = sodes
         .enumerate()
-        .map(|(n, sode)| {
+        .map(|(_, sode)| {
             println!("{}", sode);
             let captures = re.captures(sode).unwrap();
             println!("{:#?}", captures);
@@ -53,7 +55,7 @@ fn main() {
                 Episode {
                     show_id: "29256".to_string(),
                     description,
-                    number: format!("{}", n + 1),
+                    number: None,
                     season: "2".to_string(),
                     typ: "full".to_string(),
                     title: format!("{} ({})", title, date.format("%Y-%m-%d")),
