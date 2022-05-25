@@ -15,6 +15,7 @@ Here are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| May 16th, 2022| [Debugging Methodologies](https://youtu.be/7B2y0-t0SKI) | [Notes](./2022_05_16.md) |
 | April 25th, 2022| [Fail Whaling](https://youtu.be/rSVhwjFOIyU) | [Notes](./2022_04_25.md) |
 | April 18th, 2022| [More Tales from the Bringup Lab](https://youtu.be/HCkuCkp3Zoo) | [Notes](./2022_04_18.md) |
 | April 4th, 2022| [Another LPC55 ROM Vulnerability](https://youtu.be/mi_NKpwIrfI) | [Notes](./2022_04_04.md) |
