@@ -15,6 +15,7 @@ Here are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| June 13th, 2022| [The Rise and Fall of DEC](https://youtu.be/-m6GFs3GuU0) | [Notes](./2022_06_13.md) |
 | May 23rd, 2022| [Surviving the Doc-Com Bust](https://youtu.be/hEIoCeqMbWU) | [Notes](./2022_05_23.md) |
 | May 16th, 2022| [Debugging Methodologies](https://youtu.be/7B2y0-t0SKI) | [Notes](./2022_05_16.md) |
 | April 25th, 2022| [Fail Whaling](https://youtu.be/rSVhwjFOIyU) | [Notes](./2022_04_25.md) |
