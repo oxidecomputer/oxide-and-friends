@@ -15,6 +15,7 @@ Here are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| June 27th, 2022| [Books in the box redux](https://youtu.be/V85oeH4Byy0) | [Notes](./2022_06_27.md) |
 | June 20th, 2022| [Paths into Systems Programming](https://youtu.be/IG1JVKeeaGs) | [Notes](./2022_06_20.md) |
 | June 13th, 2022| [The Rise and Fall of DEC](https://youtu.be/-m6GFs3GuU0) | [Notes](./2022_06_13.md) |
 | May 23rd, 2022| [Surviving the Doc-Com Bust](https://youtu.be/hEIoCeqMbWU) | [Notes](./2022_05_23.md) |
