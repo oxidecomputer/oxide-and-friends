@@ -15,6 +15,7 @@ Here are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| July 18th, 2022| [Across the Chasm with Rust](https://youtu.be/OqyqzFiP1P0) | [Notes](./2022_07_18.md) |
 | July 11th, 2022| [Integrating Hardware and Software Teams](https://youtu.be/jsdj8gqLRJc) | [Notes](./2022_07_11.md) |
 | June 27th, 2022| [Books in the box redux](https://youtu.be/V85oeH4Byy0) | [Notes](./2022_06_27.md) |
 | June 20th, 2022| [Paths into Systems Programming](https://youtu.be/IG1JVKeeaGs) | [Notes](./2022_06_20.md) |
