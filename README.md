@@ -15,6 +15,7 @@ Here are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| August 1st, 2022| [Deep Tech Investing](https://youtu.be/67sp1l_sDkw) | [Notes](./2022_08_01.md) |
 | July 18th, 2022| [Across the Chasm with Rust](https://youtu.be/OqyqzFiP1P0) | [Notes](./2022_07_18.md) |
 | July 11th, 2022| [Integrating Hardware and Software Teams](https://youtu.be/jsdj8gqLRJc) | [Notes](./2022_07_11.md) |
 | June 27th, 2022| [Books in the box redux](https://youtu.be/V85oeH4Byy0) | [Notes](./2022_06_27.md) |
