@@ -15,6 +15,7 @@ Here are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| August 8th, 2022| [RIP Optane](https://youtu.be/lf6a_32vvbU) | [Notes](./2022_08_08.md) |
 | August 1st, 2022| [Deep Tech Investing](https://youtu.be/67sp1l_sDkw) | [Notes](./2022_08_01.md) |
 | July 18th, 2022| [Across the Chasm with Rust](https://youtu.be/OqyqzFiP1P0) | [Notes](./2022_07_18.md) |
 | July 11th, 2022| [Integrating Hardware and Software Teams](https://youtu.be/jsdj8gqLRJc) | [Notes](./2022_07_11.md) |
