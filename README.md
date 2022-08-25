@@ -9,7 +9,14 @@ and have been running a recorded [Twitter
 Space](https://help.twitter.com/en/using-twitter/spaces)
 with somewhat regular cadence on Mondays at 5p Pacific.
 
-Recordings are available on [YouTube](https://www.youtube.com/channel/UCFn4S3OexFT9YhxJ8GWdUYQ) shortly after the live shows from which we crowdsource show notes (PRs welcome!); once show notes are reasonably populated, we distribute recordings everywhere where you can get quality podcasts and through our [RSS feed](https://feeds.transistor.fm/oxide-and-friends).
+Recordings are available on
+[YouTube](https://www.youtube.com/channel/UCFn4S3OexFT9YhxJ8GWdUYQ) shortly
+after the live shows from which we crowdsource show notes (PRs welcome!); once
+show notes are reasonably populated, we distribute recordings everywhere where
+you can get quality podcasts and through our [RSS
+feed](https://feeds.transistor.fm/oxide-and-friends).
+
+**Oxide and Friends is available on [popular podcast platforms](https://oxide-and-friends.transistor.fm/)!**
 
 Here are the Spaces we've done, in reverse chronological order:
 
