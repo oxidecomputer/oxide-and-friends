@@ -22,6 +22,7 @@ Here are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| August 29th, 2022| [The Oxide Supply Chain](https://youtu.be/e0UKvTHyzuk) | [Notes](./2022_08_29.md) |
 | August 22nd, 2022| [Bringup Lab Chronicles: A Measurement Two Years in the Making](https://youtu.be/Mx59H47_07s) | [Notes](./2022_08_22.md) |
 | August 15th, 2022| [Surviving Conventional Wisdom](https://youtu.be/eNIRGAWR52M) | [Notes](./2022_08_15.md) |
 | August 8th, 2022| [RIP Optane](https://youtu.be/lf6a_32vvbU) | [Notes](./2022_08_08.md) |
