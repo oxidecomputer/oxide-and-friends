@@ -22,6 +22,7 @@ Here are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| October 3rd, 2022 | [Engineering Incentives... and Misincentives](https://youtu.be/SU4WT5RZAPY) | [Notes](./2022_10_03.md) |
 | September 26th, 2022| [Losing the Signal with Sean Silcoff](https://youtu.be/68TVcHeBsBU) | [Notes](./2022_09_26.md) |
 | September 12th, 2022| [Threads, async/await, Promises, Futures](https://youtu.be/3aZctYSIJZQ) | [Notes](./2022_09_12.md) |
 | September 5th, 2022| [Potpourri: Product, Platform, Paravirtualization](https://youtu.be/Xd9oIUItoAo) | [Notes](./2022_09_05.md) |
@@ -50,6 +51,7 @@ Here are the Spaces we've done, in reverse chronological order:
 | January 24th, 2022 | [Taxonomy of Hype](https://youtu.be/qrWgmkBfn9s) | [Notes](./2022_01_24.md) |
 | January 10th, 2022 | [Flying Blind with Peter Robison](https://youtu.be/q6i9NPslfE4) | [Notes](./2022_01_10.md) |
 | January 3rd, 2022 | [Predictions 2022](https://youtu.be/uZylf2gbg_E) | [Notes](./2022_01_03.md) |
+| **2021** |||
 | December 13th, 2021 | [The Pragmatism of Hubris](https://youtu.be/cypmufnPfLw) | [Notes](./2021_12_13.md) |
 | December 6th, 2021 | [Tales from the Bringup Lab](https://www.youtube.com/watch?v=lhji-kP3Lhk) | [Notes](./2021_12_06.md) |
 | November 29nd, 2021 | [The Sidecar Switch](https://youtu.be/yl24yHlLRy0) | [Notes](./2021_11_29.md) |
