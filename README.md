@@ -22,6 +22,7 @@ Here are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| October 10th, 2022 | [Holistic Boot](https://youtu.be/KItJzncvjFk) | [Notes](./2022_10_10.md) |
 | October 3rd, 2022 | [Engineering Incentives... and Misincentives](https://youtu.be/SU4WT5RZAPY) | [Notes](./2022_10_03.md) |
 | September 26th, 2022| [Losing the Signal with Sean Silcoff](https://youtu.be/68TVcHeBsBU) | [Notes](./2022_09_26.md) |
 | September 12th, 2022| [Threads, async/await, Promises, Futures](https://youtu.be/3aZctYSIJZQ) | [Notes](./2022_09_12.md) |
