@@ -22,6 +22,7 @@ Here are the Spaces we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| November 7th, 2022| [Tech Layoffs](https://youtu.be/oBTMUc1Q5vY) | [Notes](./2022_11_07.md) |
 | October 31st, 2022 | [Open Source Firmware](https://youtu.be/QAhHkz76NbI) | [Notes](./2022_10_31.md) |
 | October 27th, 2022 (*) | [Let That Sink In! (Whither Twitter?)](https://youtu.be/RhXYXtyPz3Y) | [Notes](./2022_10_27_special.md) |
 | October 24th, 2022 | [Open Source Inside Baseball](https://youtu.be/UygfNt5oLmM) | [Notes](./2022_10_24.md) |
