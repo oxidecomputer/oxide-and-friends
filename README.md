@@ -1,24 +1,29 @@
-# Oxide and Friends Twitter Spaces
+# Oxide and Friends
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFn4S3OexFT9YhxJ8GWdUYQ?style=flat-square)](https://www.youtube.com/channel/UCFn4S3OexFT9YhxJ8GWdUYQ)
 [![RSS feed](https://img.shields.io/badge/RSS-Feed-green?style=flat-square)](https://feeds.transistor.fm/oxide-and-friends)
+[![Discord server](https://img.shields.io/discord/1042492311080288306?label=stage)](https://discord.gg/dAGmBC5N)
 
 [We're pretty excited about 
-Spaces](http://dtrace.org/blogs/bmc/2021/05/02/twitter-spaces-a-few-weeks-in/)
-and have been running a recorded [Twitter
-Space](https://help.twitter.com/en/using-twitter/spaces)
-with somewhat regular cadence on Mondays at 5p Pacific.
+Social Audio](http://dtrace.org/blogs/bmc/2021/05/02/twitter-spaces-a-few-weeks-in/)
+and have been hosting a show pretty most weeks. The live show is on our Discord
+server using the Stage Channel feature; You can join
+[here](https://discord.gg/dAGmBC5N) and [subscribe to our events
+calendar](https://sesh.fyi/api/calendar/v2/iMdFbuFRupMwuTiwvXswNU.ics).
 
 Recordings are available on
 [YouTube](https://www.youtube.com/channel/UCFn4S3OexFT9YhxJ8GWdUYQ) shortly
-after the live shows from which we crowdsource show notes (PRs welcome!); once
-show notes are reasonably populated, we distribute recordings everywhere where
-you can get quality podcasts and through our [RSS
+after the live shows from which we crowdsource show notes (**PRs welcome!**);
+once show notes are reasonably populated, we distribute recordings everywhere
+where you can get quality podcasts and through our [RSS
 feed](https://feeds.transistor.fm/oxide-and-friends).
 
 **Oxide and Friends is available on [popular podcast platforms](https://oxide-and-friends.transistor.fm/)!**
 
-Here are the Spaces we've done, in reverse chronological order:
+This repository holds the show notes. Show notes are crowd-sourced--PRs aren't
+just welcome, we depend on them!
+
+Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
@@ -84,7 +89,3 @@ Here are the Spaces we've done, in reverse chronological order:
 | May 17, 2021 | [golang asserts and the PLATO terminal](https://youtu.be/8tJEwCvZWsg) | [Notes](./2021_05_17.md) |
 | May 10, 2021 | [A Requiem for SPARC with Tom Lyon](https://youtu.be/79NNXn5Kr90) | [Notes](./2021_05_10.md) |
 | May 3, 2021 | [Mr. Leventhal, Come here I want to see you](https://youtu.be/h-WSU3kiXVg) | [Notes](./2021_05_03.md) |
-
-This repository holds the show notes for our Twitter Spaces recordings.
-Show notes are crowd-sourced--PRs aren't just welcome, we depend on them!
-
