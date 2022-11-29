@@ -1,15 +1,14 @@
-# Oxide and Friends Twitter Space: MM DD, 20YY
+# Oxide and Friends: MM DD, 20YY
 
 ## Snazzy title
 
-We've been holding a Twitter Space weekly on Mondays at 5p for about an hour.
-Even though it's not (yet?) a feature of Twitter Spaces, we have been
-recording them all; here is
-[the recording for our Twitter Space for MM DD, 20YY]().
+We've been hosting a live show weekly on Mondays at 5p for about an hour,
+and recording them all; here is
+[the recording from MM DD, 20YY]().
 
 In addition to
-[Bryan Cantrill](https://twitter.com/bcantrill) and
-[Adam Leventhal](https://twitter.com/ahl),
+[Bryan Cantrill](https://mastodon.social/bcantrill) and
+[Adam Leventhal](https://mastodon.social/ahl),
 speakers on MM DD included
 [XXX](),
 and [YY]().
@@ -23,7 +22,8 @@ Some of the topics we hit on, in the order that we hit them:
 - PRs needed!
 
 If we got something wrong or missed something, please file a PR!
-Our next Twitter space will likely be on Monday at 5p Pacific Time; stay tuned
-to our Twitter feeds for details.  We'd love to have you join us, as we
-always love to hear from new speakers!
+Our next show will likely be on Monday at 5p Pacific Time on our Discord
+server; stay tuned to our Mastodon feeds for details, or [subscribe to this
+calendar](https://sesh.fyi/api/calendar/v2/iMdFbuFRupMwuTiwvXswNU.ics).  We'd
+love to have you join us, as we always love to hear from new speakers!
 
