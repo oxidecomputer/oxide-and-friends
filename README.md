@@ -27,6 +27,7 @@ Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| November 28th, 2022| [Leaving Twitter with Tim Bray](https://youtu.be/GZF96XmmJg8) | [Notes](./2022_11_28.md) |
 | November 14th, 2022| [Mastodon with Kris Nova](https://youtu.be/2YvLYUYKEAs) | [Notes](./2022_11_14.md) |
 | November 7th, 2022| [Tech Layoffs](https://youtu.be/oBTMUc1Q5vY) | [Notes](./2022_11_07.md) |
 | October 31st, 2022 | [Open Source Firmware](https://youtu.be/QAhHkz76NbI) | [Notes](./2022_10_31.md) |
