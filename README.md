@@ -2,13 +2,13 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFn4S3OexFT9YhxJ8GWdUYQ?style=flat-square)](https://www.youtube.com/channel/UCFn4S3OexFT9YhxJ8GWdUYQ)
 [![RSS feed](https://img.shields.io/badge/RSS-Feed-green?style=flat-square)](https://feeds.transistor.fm/oxide-and-friends)
-[![Discord server](https://img.shields.io/discord/1042492311080288306?label=stage)](https://discord.gg/dAGmBC5N)
+[![Discord server](https://img.shields.io/discord/1042492311080288306?label=stage)](https://discord.gg/gcQxNHAKCB)
 
 [We're pretty excited about 
 Social Audio](http://dtrace.org/blogs/bmc/2021/05/02/twitter-spaces-a-few-weeks-in/)
 and have been hosting a show pretty most weeks. The live show is on our Discord
 server using the Stage Channel feature; You can join
-[here](https://discord.gg/dAGmBC5N) and [subscribe to our events
+[here](https://discord.gg/gcQxNHAKCB) and [subscribe to our events
 calendar](https://sesh.fyi/api/calendar/v2/iMdFbuFRupMwuTiwvXswNU.ics).
 
 Recordings are available on
