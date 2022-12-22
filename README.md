@@ -27,6 +27,7 @@ Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| December 19th, 2022| [A Debugging Odyssey](https://youtu.be/TulG3yTrLEE) | [Notes](./2022_12_19.md) |
 | December 12th, 2022| [Podcasts for Podcast-Lovers](https://youtu.be/aJDIhNsS9kM) | [Notes](./2022_12_12.md) |
 | November 28th, 2022| [Leaving Twitter with Tim Bray](https://youtu.be/GZF96XmmJg8) | [Notes](./2022_11_28.md) |
 | November 14th, 2022| [Mastodon with Kris Nova](https://youtu.be/2YvLYUYKEAs) | [Notes](./2022_11_14.md) |
