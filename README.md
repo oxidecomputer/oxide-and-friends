@@ -27,6 +27,7 @@ Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| December 26th, 2022| [Break it down with Ian Brown](https://youtu.be/AD7F1Y-pga0) | [Notes](./2022_12_26.md) |
 | December 19th, 2022| [A Debugging Odyssey](https://youtu.be/TulG3yTrLEE) | [Notes](./2022_12_19.md) |
 | December 12th, 2022| [Podcasts for Podcast-Lovers](https://youtu.be/aJDIhNsS9kM) | [Notes](./2022_12_12.md) |
 | November 28th, 2022| [Leaving Twitter with Tim Bray](https://youtu.be/GZF96XmmJg8) | [Notes](./2022_11_28.md) |
