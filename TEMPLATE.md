@@ -7,8 +7,8 @@ and recording them all; here is
 [the recording from MM DD, 20YY]().
 
 In addition to
-[Bryan Cantrill](https://mastodon.social/bcantrill) and
-[Adam Leventhal](https://mastodon.social/ahl),
+[Bryan Cantrill](https://mastodon.social/@bcantrill) and
+[Adam Leventhal](https://mastodon.social/@ahl),
 speakers on MM DD included
 [XXX](),
 and [YY]().
