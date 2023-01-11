@@ -27,6 +27,8 @@ Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| January 9th, 2023| [Predictions 2023](https://youtu.be/6nQbe9EYFaw) | [Notes](./2023_01_09.md) |
+| **2022** |||
 | December 26th, 2022| [Break it down with Ian Brown](https://youtu.be/AD7F1Y-pga0) | [Notes](./2022_12_26.md) |
 | December 19th, 2022| [A Debugging Odyssey](https://youtu.be/TulG3yTrLEE) | [Notes](./2022_12_19.md) |
 | December 12th, 2022| [Podcasts for Podcast-Lovers](https://youtu.be/aJDIhNsS9kM) | [Notes](./2022_12_12.md) |
