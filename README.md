@@ -27,7 +27,7 @@ Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
-| January 16th, 2023| [The Power of Proto Boards!](https://youtu.be/A5BXMILt49s) | [Notes](./2023_01_16.md) |
+| January 16th, 2023| [The Power of Proto Boards!](https://youtu.be/XmiWIlFvSYs) | [Notes](./2023_01_16.md) |
 | January 9th, 2023| [Predictions 2023](https://youtu.be/6nQbe9EYFaw) | [Notes](./2023_01_09.md) |
 | **2022** |||
 | December 26th, 2022| [Break it down with Ian Brown](https://youtu.be/AD7F1Y-pga0) | [Notes](./2022_12_26.md) |
