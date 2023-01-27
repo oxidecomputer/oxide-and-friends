@@ -27,6 +27,7 @@ Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| January 23rd, 2023| [Revisiting Unikernels](https://youtu.be/2WLhwgBH-cg) | [Notes](./2023_01_23.md) |
 | January 16th, 2023| [The Power of Proto Boards!](https://youtu.be/XmiWIlFvSYs) | [Notes](./2023_01_16.md) |
 | January 9th, 2023| [Predictions 2023](https://youtu.be/6nQbe9EYFaw) | [Notes](./2023_01_09.md) |
 | **2022** |||
