@@ -27,16 +27,17 @@ Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
-| January 23rd, 2023| [Revisiting Unikernels](https://youtu.be/2WLhwgBH-cg) | [Notes](./2023_01_23.md) |
-| January 16th, 2023| [The Power of Proto Boards!](https://youtu.be/XmiWIlFvSYs) | [Notes](./2023_01_16.md) |
-| January 9th, 2023| [Predictions 2023](https://youtu.be/6nQbe9EYFaw) | [Notes](./2023_01_09.md) |
+| February 6th, 2023 | [Oxide and the Chamber of Mysteries](https://youtu.be/NVZ80_tbkbc) | [Notes](./2023_02_06.md) |
+| January 23rd, 2023 | [Revisiting Unikernels](https://youtu.be/2WLhwgBH-cg) | [Notes](./2023_01_23.md) |
+| January 16th, 2023 | [The Power of Proto Boards!](https://youtu.be/XmiWIlFvSYs) | [Notes](./2023_01_16.md) |
+| January 9th, 2023 | [Predictions 2023](https://youtu.be/6nQbe9EYFaw) | [Notes](./2023_01_09.md) |
 | **2022** |||
-| December 26th, 2022| [Break it down with Ian Brown](https://youtu.be/AD7F1Y-pga0) | [Notes](./2022_12_26.md) |
-| December 19th, 2022| [A Debugging Odyssey](https://youtu.be/TulG3yTrLEE) | [Notes](./2022_12_19.md) |
-| December 12th, 2022| [Podcasts for Podcast-Lovers](https://youtu.be/aJDIhNsS9kM) | [Notes](./2022_12_12.md) |
-| November 28th, 2022| [Leaving Twitter with Tim Bray](https://youtu.be/GZF96XmmJg8) | [Notes](./2022_11_28.md) |
-| November 14th, 2022| [Mastodon with Kris Nova](https://youtu.be/2YvLYUYKEAs) | [Notes](./2022_11_14.md) |
-| November 7th, 2022| [Tech Layoffs](https://youtu.be/oBTMUc1Q5vY) | [Notes](./2022_11_07.md) |
+| December 26th, 2022 | [Break it down with Ian Brown](https://youtu.be/AD7F1Y-pga0) | [Notes](./2022_12_26.md) |
+| December 19th, 2022 | [A Debugging Odyssey](https://youtu.be/TulG3yTrLEE) | [Notes](./2022_12_19.md) |
+| December 12th, 2022 | [Podcasts for Podcast-Lovers](https://youtu.be/aJDIhNsS9kM) | [Notes](./2022_12_12.md) |
+| November 28th, 2022 | [Leaving Twitter with Tim Bray](https://youtu.be/GZF96XmmJg8) | [Notes](./2022_11_28.md) |
+| November 14th, 2022 | [Mastodon with Kris Nova](https://youtu.be/2YvLYUYKEAs) | [Notes](./2022_11_14.md) |
+| November 7th, 2022 | [Tech Layoffs](https://youtu.be/oBTMUc1Q5vY) | [Notes](./2022_11_07.md) |
 | October 31st, 2022 | [Open Source Firmware](https://youtu.be/QAhHkz76NbI) | [Notes](./2022_10_31.md) |
 | October 27th, 2022 (*) | [Let That Sink In! (Whither Twitter?)](https://youtu.be/RhXYXtyPz3Y) | [Notes](./2022_10_27_special.md) |
 | October 24th, 2022 | [Open Source Inside Baseball](https://youtu.be/UygfNt5oLmM) | [Notes](./2022_10_24.md) |
