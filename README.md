@@ -27,6 +27,7 @@ Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| February 13th, 2023 | [Memory Safety with Yael Grauer](https://youtu.be/NRtj8XzKLUQ) | [Notes](./2023_02_13.md) |
 | February 6th, 2023 | [Oxide and the Chamber of Mysteries](https://youtu.be/NVZ80_tbkbc) | [Notes](./2023_02_06.md) |
 | January 23rd, 2023 | [Revisiting Unikernels](https://youtu.be/2WLhwgBH-cg) | [Notes](./2023_01_23.md) |
 | January 16th, 2023 | [The Power of Proto Boards!](https://youtu.be/XmiWIlFvSYs) | [Notes](./2023_01_16.md) |
