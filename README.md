@@ -27,6 +27,7 @@ Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| February 27th, 2023 | [Rack-scale Networking](https://youtu.be/AkWh2Sms3aw) | [Notes](./2023_02_27.md) |
 | February 13th, 2023 | [Memory Safety with Yael Grauer](https://youtu.be/NRtj8XzKLUQ) | [Notes](./2023_02_13.md) |
 | February 6th, 2023 | [Oxide and the Chamber of Mysteries](https://youtu.be/NVZ80_tbkbc) | [Notes](./2023_02_06.md) |
 | January 23rd, 2023 | [Revisiting Unikernels](https://youtu.be/2WLhwgBH-cg) | [Notes](./2023_01_23.md) |
