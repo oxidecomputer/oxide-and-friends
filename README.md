@@ -27,6 +27,7 @@ Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| March 20th, 2023 | [Does a GPT future need software engineers?](https://youtu.be/7Ff99Ir78NI) | [Notes](./2023_03_20.md) |
 | March 17th, 2023 | [On Silicon Valley Bank with Eric Vishria](https://youtu.be/pYrlCv-bwDk) | [Notes](./2023_03_17.md) |
 | February 27th, 2023 | [Rack-scale Networking](https://youtu.be/AkWh2Sms3aw) | [Notes](./2023_02_27.md) |
 | February 13th, 2023 | [Memory Safety with Yael Grauer](https://youtu.be/NRtj8XzKLUQ) | [Notes](./2023_02_13.md) |
