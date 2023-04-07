@@ -27,6 +27,7 @@ Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| April 3rd, 2023 | [Cabling the Backplane](https://youtu.be/pJ5_SNKB6LU) | [Notes](./2023_04_03.md) |
 | March 27th, 2023 | [Get You a State Machine for Great Good](https://youtu.be/7RR6hFE_jDU) | [Notes](./2023_03_27.md) |
 | March 20th, 2023 | [Does a GPT future need software engineers?](https://youtu.be/7Ff99Ir78NI) | [Notes](./2023_03_20.md) |
 | March 17th, 2023 | [On Silicon Valley Bank with Eric Vishria](https://youtu.be/pYrlCv-bwDk) | [Notes](./2023_03_17.md) |
