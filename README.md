@@ -27,6 +27,7 @@ Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| April 17th, 2023 | [Rust Trademark: Argle-bargle or Foofaraw](https://youtu.be/N-ADQ5n7HoY) | [Notes](./2023_04_17.md) |
 | April 3rd, 2023 | [Cabling the Backplane](https://youtu.be/pJ5_SNKB6LU) | [Notes](./2023_04_03.md) |
 | March 27th, 2023 | [Get You a State Machine for Great Good](https://youtu.be/7RR6hFE_jDU) | [Notes](./2023_03_27.md) |
 | March 20th, 2023 | [Does a GPT future need software engineers?](https://youtu.be/7Ff99Ir78NI) | [Notes](./2023_03_20.md) |
