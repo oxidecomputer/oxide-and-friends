@@ -27,6 +27,7 @@ Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| May 15th, 2023 | [Building Together: Oxide and Samtec](https://youtu.be/JtkG18TlA-g) | [Notes](./2023_05_15.md) |
 | May 8th, 2023 | [The Network Behind the Network](https://youtu.be/abE_9zsAadE) | [Notes](./2023_05_08.md) |
 | May 1st, 2023 | [Blue Skies Over Mastodon (with Erin Kissane and Tim Bray)](https://youtu.be/bcMiWZ2Er2g) | [Notes](./2023_05_01.md) |
 | April 17th, 2023 | [Rust Trademark: Argle-bargle or Foofaraw?](https://youtu.be/N-ADQ5n7HoY) | [Notes](./2023_04_17.md) |
