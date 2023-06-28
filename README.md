@@ -27,6 +27,7 @@ Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| June 26th, 2023 | [Okay, Doomer: A Rebuttal to AI Doom-mongering](https://youtu.be/r3qZJBfHI0Y) | [Notes](./2023_06_26.md) |
 | June 19th, 2023 | [Software Verificationpalooza](https://youtu.be/CcYK8E1UuJY) | [Notes](./2023_06_19.md) |
 | June 12th, 2023 | [Virtualizing Time](https://youtu.be/eQR98smFYTc) | [Notes](./2023_06_12.md) |
 | May 30th, 2023 | [Open Source Governance](https://youtu.be/16gT4nebygg) | [Notes](./2023_05_30.md) |
