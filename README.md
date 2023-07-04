@@ -27,6 +27,7 @@ Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| July 3rd, 2023 | [Shipping the first Oxide rack: Your questions answered!](https://youtu.be/5P5Mk_IggE0) | [Notes](./2023_07_03.md) |
 | June 26th, 2023 | [Okay, Doomer: A Rebuttal to AI Doom-mongering](https://youtu.be/r3qZJBfHI0Y) | [Notes](./2023_06_26.md) |
 | June 19th, 2023 | [Software Verificationpalooza](https://youtu.be/CcYK8E1UuJY) | [Notes](./2023_06_19.md) |
 | June 12th, 2023 | [Virtualizing Time](https://youtu.be/eQR98smFYTc) | [Notes](./2023_06_12.md) |
