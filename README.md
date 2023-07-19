@@ -27,6 +27,7 @@ Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| July 17th, 2023 | [The Frontend of the Computer](https://youtu.be/dS7TEfKqQY0) | [Notes](./2023_07_17.md) |
 | July 10th, 2023 | [Tales from Manufacturing: Shipping Rack 1](https://youtu.be/L4YF8QJkKqM) | [Notes](./2023_07_10.md) |
 | July 3rd, 2023 | [Shipping the first Oxide rack: Your questions answered!](https://youtu.be/5P5Mk_IggE0) | [Notes](./2023_07_03.md) |
 | June 26th, 2023 | [Okay, Doomer: A Rebuttal to AI Doom-mongering](https://youtu.be/r3qZJBfHI0Y) | [Notes](./2023_06_26.md) |
