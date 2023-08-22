@@ -27,6 +27,7 @@ Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| August 21st, 2023 | [Fork in the road for Terraform?](https://youtu.be/QaU94LY891M) | [Notes](./2023_08_21.md) |
 | August 14th, 2023 | [No Silver Bullet](https://youtu.be/5rr0kA0KqPc) | [Notes](./2023_08_14.md) |
 | July 24th, 2023 | [Books in the Box III](https://youtu.be/JXWz5Ga2GJc) | [Notes](./2023_07_24.md) |
 | July 17th, 2023 | [The Frontend of the Computer](https://youtu.be/dS7TEfKqQY0) | [Notes](./2023_07_17.md) |
