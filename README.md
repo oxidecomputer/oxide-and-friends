@@ -27,6 +27,7 @@ Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| October 2nd, 2023 | [Mr. Nagle's Wild Ride](https://youtu.be/mqvVmYhclAg) | [Notes](./2023_10_02.md) |
 | September 11th, 2023 | [DTrace at 20](https://youtu.be/IeUFzBBRilM) | [Notes](./2023_09_11.md) |
 | August 28th, 2023 | [Open Source Anti-Patterns with Kelsey Hightower](https://youtu.be/13ctYOu8TsA) | [Notes](./2023_08_28.md) |
 | August 21st, 2023 | [Fork in the road for Terraform?](https://youtu.be/QaU94LY891M) | [Notes](./2023_08_21.md) |
