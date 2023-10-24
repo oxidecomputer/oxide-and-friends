@@ -27,7 +27,7 @@ Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
-| October 23rd, 2023 | [Open Source and Capitalism with Ashley Williams and Adam Jacob](https://youtu.be/UC4QblJaMUc) | [Notes](./2023_10_23.hd) |
+| October 23rd, 2023 | [Open Source and Capitalism with Ashley Williams and Adam Jacob](https://youtu.be/UC4QblJaMUc) | [Notes](./2023_10_23.md) |
 | October 16th, 2023 | [Settling Beef](https://youtu.be/jZs3hEBXcSw) | [Notes](./2023_10_16.md) |
 | October 2nd, 2023 | [Mr. Nagle's Wild Ride](https://youtu.be/mqvVmYhclAg) | [Notes](./2023_10_02.md) |
 | September 11th, 2023 | [DTrace at 20](https://youtu.be/IeUFzBBRilM) | [Notes](./2023_09_11.md) |
