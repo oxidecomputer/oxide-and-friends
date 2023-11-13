@@ -67,7 +67,7 @@ Here are the shows we've done, in reverse chronological order:
 | November 14th, 2022 | [Mastodon with Kris Nova](https://youtu.be/2YvLYUYKEAs) | [Notes](./2022_11_14.md) |
 | November 7th, 2022 | [Tech Layoffs](https://youtu.be/oBTMUc1Q5vY) | [Notes](./2022_11_07.md) |
 | October 31st, 2022 | [Open Source Firmware](https://youtu.be/QAhHkz76NbI) | [Notes](./2022_10_31.md) |
-| October 27th, 2022 (*) | [Let That Sink In! (Whither Twitter?)](https://youtu.be/RhXYXtyPz3Y) | [Notes](./2022_10_27_special.md) |
+| October 27th, 2022 (\*) | [Let That Sink In! (Whither Twitter?)](https://youtu.be/RhXYXtyPz3Y) | [Notes](./2022_10_27_special.md) |
 | October 24th, 2022 | [Open Source Inside Baseball](https://youtu.be/UygfNt5oLmM) | [Notes](./2022_10_24.md) |
 | October 10th, 2022 | [Holistic Boot](https://youtu.be/KItJzncvjFk) | [Notes](./2022_10_10.md) |
 | October 3rd, 2022 | [Engineering Incentives... and Misincentives](https://youtu.be/SU4WT5RZAPY) | [Notes](./2022_10_03.md) |
@@ -84,7 +84,7 @@ Here are the shows we've done, in reverse chronological order:
 | June 27th, 2022| [Books in the box redux](https://youtu.be/V85oeH4Byy0) | [Notes](./2022_06_27.md) |
 | June 20th, 2022| [Paths into Systems Programming](https://youtu.be/IG1JVKeeaGs) | [Notes](./2022_06_20.md) |
 | June 13th, 2022| [The Rise and Fall of DEC](https://youtu.be/-m6GFs3GuU0) | [Notes](./2022_06_13.md) |
-| May 23rd, 2022| [Surviving the Doc-Com Bust](https://youtu.be/hEIoCeqMbWU) | [Notes](./2022_05_23.md) |
+| May 23rd, 2022| [Surviving the Dot-Com Bust](https://youtu.be/hEIoCeqMbWU) | [Notes](./2022_05_23.md) |
 | May 16th, 2022| [Debugging Methodologies](https://youtu.be/7B2y0-t0SKI) | [Notes](./2022_05_16.md) |
 | April 25th, 2022| [Fail Whaling](https://youtu.be/rSVhwjFOIyU) | [Notes](./2022_04_25.md) |
 | April 18th, 2022| [More Tales from the Bringup Lab](https://youtu.be/HCkuCkp3Zoo) | [Notes](./2022_04_18.md) |
