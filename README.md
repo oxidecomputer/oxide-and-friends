@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2023** |||
+| November 27th, 2023 | [OpenAI's Boardroom Brawl](https://youtu.be/nCZywsprF3E) | [Notes](./2023_11_27.md) |
 | November 6th, 2023 | [Hiring Processes with Gergely Orosz](https://youtu.be/wN8lcIUKZAU) | [Notes](./2023_11_06.md) |
 | October 30th, 2023 | [Launching the Cloud Computer](https://youtu.be/xNLxknaj72g) | [Notes](./2023_10_30.md) |
 | October 23rd, 2023 | [Open Source and Capitalism with Ashley Williams and Adam Jacob](https://youtu.be/UC4QblJaMUc) | [Notes](./2023_10_23.md) |
