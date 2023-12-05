@@ -24,6 +24,6 @@ Some of the topics we hit on, in the order that we hit them:
 If we got something wrong or missed something, please file a PR!
 Our next show will likely be on Monday at 5p Pacific Time on our Discord
 server; stay tuned to our Mastodon feeds for details, or [subscribe to this
-calendar](https://sesh.fyi/api/calendar/v2/iMdFbuFRupMwuTiwvXswNU.ics).  We'd
-love to have you join us, as we always love to hear from new speakers!
+calendar](https://calendar.google.com/calendar/ical/c_318925f4185aa71c4524d0d6127f31058c9e21f29f017d48a0fca6f564969cd0%40group.calendar.google.com/public/basic.ics).
+We'd love to have you join us, as we always love to hear from new speakers!
 

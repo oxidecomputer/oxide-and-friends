@@ -9,7 +9,7 @@ Social Audio](http://dtrace.org/blogs/bmc/2021/05/02/twitter-spaces-a-few-weeks-
 and have been hosting a show pretty most weeks. The live show is on our Discord
 server using the Stage Channel feature; You can join
 [here](https://discord.gg/gcQxNHAKCB) and [subscribe to our events
-calendar](https://sesh.fyi/api/calendar/v2/iMdFbuFRupMwuTiwvXswNU.ics).
+calendar](https://calendar.google.com/calendar/ical/c_318925f4185aa71c4524d0d6127f31058c9e21f29f017d48a0fca6f564969cd0%40group.calendar.google.com/public/basic.ics).
 
 Recordings are available on
 [YouTube](https://www.youtube.com/channel/UCFn4S3OexFT9YhxJ8GWdUYQ) shortly
@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2023** |||
+| December 4th, 2023 | [Framework Computer with Nirav Patel](https://youtu.be/rGK1Vx8u1Vk) | [Notes](./2023_12_04.md) |
 | November 27th, 2023 | [OpenAI's Boardroom Brawl](https://youtu.be/nCZywsprF3E) | [Notes](./2023_11_27.md) |
 | November 6th, 2023 | [Hiring Processes with Gergely Orosz](https://youtu.be/wN8lcIUKZAU) | [Notes](./2023_11_06.md) |
 | October 30th, 2023 | [Launching the Cloud Computer](https://youtu.be/xNLxknaj72g) | [Notes](./2023_10_30.md) |
