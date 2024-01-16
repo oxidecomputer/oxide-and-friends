@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2024** |||
+| January 15th, 2024 | [Open Source LLMs with Simon Willison](https://youtu.be/Wqkvn4YyGpA) | [Notes](./2024_01_15.md) |
 | January 8th, 2024 | [Predictions 2024!](https://youtu.be/eO9_Z4Ebln4) | [Notes](./2024_01_08.md) |
 | **2023** |||
 | December 11th, 2023 | [AMD's MI300 and the Future of Accelerated Compute](https://youtu.be/fM35uzl4Dkg) | [Notes](./2023_12_11.md) |
