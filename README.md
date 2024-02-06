@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2024** |||
+| February 5th, 2024 | [Innovation Stagnation?](https://youtu.be/XN7XDuOXfM8) | [Notes](./2024_02_05.md) |
 | January 29th, 2024 | [Helios](https://youtu.be/9ejokdrByUs) | [Notes](./2024_01_29.md) |
 | January 22nd, 2024 | [What's taking so long?!](https://youtu.be/VRcuTbRBKYM) | [Notes](./2024_01_22.md) |
 | January 15th, 2024 | [Open Source LLMs with Simon Willison](https://youtu.be/Wqkvn4YyGpA) | [Notes](./2024_01_15.md) |
