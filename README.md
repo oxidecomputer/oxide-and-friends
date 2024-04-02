@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2024** |||
+| April 1st, 2024 | [Cultural Idiosyncrasies](https://youtu.be/d3yrCo6k4Jo) | [Notes](./2024_04_01.md) |
 | March 25th, 2024 | [Adversarial Machine Learning](https://youtu.be/ATth8p-7Jnc) | [Notes](./2024_03_25.md) |
 | March 4th, 2024 | [Data Visualization](https://youtu.be/qEoE98oV9mc) | [Notes](./2024_03_04.md) |
 | February 12th, 2024 | [Crucible: The Oxide Storage Service](https://youtu.be/UvEKSqBBcZw) | [Notes](./2024_02_12.md) |
