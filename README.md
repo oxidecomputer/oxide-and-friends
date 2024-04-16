@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2024** |||
+| April 15th, 2024 | [A Baseball Startup with Paul Freedman and Bryan Carmel](https://youtu.be/YyLtCyvPRyk) | [Notes](./2024_04_15.md) |
 | April 8th, 2024 | [Discovering the XZ Backdoor with Andres Freund](https://youtu.be/jg5F9UupL6I) | [Notes](./2024_04_08.md) |
 | April 1st, 2024 | [Cultural Idiosyncrasies](https://youtu.be/d3yrCo6k4Jo) | [Notes](./2024_04_01.md) |
 | March 25th, 2024 | [Adversarial Machine Learning](https://youtu.be/ATth8p-7Jnc) | [Notes](./2024_03_25.md) |
