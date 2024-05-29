@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2024** |||
+| May 27th, 2024 | [Rebooting a datacenter: A decade later](https://youtu.be/sdDEwqUnOfs) | [Notes](./2024_05_27.md) |
 | May 20th, 2024 | [Bookclub: How Life Works by Philip Ball](https://youtu.be/5zDPneXJ_a8) | [Notes](./2024_05_20.md) |
 | April 22nd, 2024 | [All we have to fear is FUD itself](https://youtu.be/ZzI3MvZ0fHo) | [Notes](./2024_04_22.md) |
 | April 15th, 2024 | [A Baseball Startup with Paul Freedman and Bryan Carmel](https://youtu.be/YyLtCyvPRyk) | [Notes](./2024_04_15.md) |
