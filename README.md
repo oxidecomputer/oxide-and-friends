@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2024** |||
+| June 24th, 2024 | [Is NVIDIA like Sun from the Dot Com Bubble?](https://youtu.be/29Uuvb_dJFk) | [Notes](./2024_06_24.md) |
 | June 3rd, 2024 | [Musing with Changelog's Adam Stacoviak](https://youtu.be/7rLbDWGByeU) | [Notes](./2024_06_03.md) |
 | May 27th, 2024 | [Rebooting a datacenter: A decade later](https://youtu.be/sdDEwqUnOfs) | [Notes](./2024_05_27.md) |
 | May 20th, 2024 | [Bookclub: How Life Works by Philip Ball](https://youtu.be/5zDPneXJ_a8) | [Notes](./2024_05_20.md) |
