@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2024** |||
+| July 15th, 2024 | [Heterogeneous Computing with Raja Koduri](https://youtu.be/7hF9AM8LM4c) | [Notes](./2024_07_15.md) |
 | July 8th, 2024 | [Innovation Tokens with Charity Majors](https://youtu.be/l5mNUDQKEVY) | [Notes](./2024_07_08.md) |
 | June 24th, 2024 | [Is NVIDIA like Sun from the Dot Com Bubble?](https://youtu.be/29Uuvb_dJFk) | [Notes](./2024_06_24.md) |
 | June 3rd, 2024 | [Musing with Changelog's Adam Stacoviak](https://youtu.be/7rLbDWGByeU) | [Notes](./2024_06_03.md) |
