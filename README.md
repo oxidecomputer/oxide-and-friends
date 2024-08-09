@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2024** |||
+| August 5th, 2024 | [Pragmatic LLM usage with Nicholas Carlini](https://youtu.be/UPTAX30ttMQ) | [Notes](./2024_08_05.md) |
 | July 22nd, 2024 | [CrowdStrike BSOD Fiasco with Katie Moussouris](https://youtu.be/5XTQd_MGkvM) | [Notes](./2024_07_22.md) |
 | July 15th, 2024 | [Heterogeneous Computing with Raja Koduri](https://youtu.be/7hF9AM8LM4c) | [Notes](./2024_07_15.md) |
 | July 8th, 2024 | [Innovation Tokens with Charity Majors](https://youtu.be/l5mNUDQKEVY) | [Notes](./2024_07_08.md) |
