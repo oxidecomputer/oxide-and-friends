@@ -9,7 +9,7 @@ and recording them all; here is
 In addition to
 [Bryan Cantrill](https://mastodon.social/@bcantrill) and
 [Adam Leventhal](https://mastodon.social/@ahl),
-speakers on MM DD included
+speakers included
 [XXX](),
 and [YY]().
 (Did we miss your name and/or get it wrong? Drop a PR!)
