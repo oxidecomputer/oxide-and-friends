@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2024** |||
+| August 19th, 2024 | [Whither CochroachDB?](https://youtu.be/DNHMYp8M40k) | [Notes](./2024_08_19.md) |
 | August 12th, 2024 | [The Saga of Sagas](https://youtu.be/ZYSlOhpSRNQ) | [Notes](./2024_08_12.md) |
 | August 5th, 2024 | [Pragmatic LLM usage with Nicholas Carlini](https://youtu.be/UPTAX30ttMQ) | [Notes](./2024_08_05.md) |
 | July 22nd, 2024 | [CrowdStrike BSOD Fiasco with Katie Moussouris](https://youtu.be/5XTQd_MGkvM) | [Notes](./2024_07_22.md) |
