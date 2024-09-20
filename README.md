@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2024** |||
+| September 16th, 2024 | [Reflecting on Founder Mode](https://youtu.be/Ch9R4ZxvtG0) | [Notes](./2024_09_16.md) |
 | August 26th, 2024 | [RFDs: The Backbone of Oxide](https://youtu.be/rCdeAtMPcJc) | [Notes](./2024_08_26.md) |
 | August 19th, 2024 | [Whither CochroachDB?](https://youtu.be/DNHMYp8M40k) | [Notes](./2024_08_19.md) |
 | August 12th, 2024 | [The Saga of Sagas](https://youtu.be/ZYSlOhpSRNQ) | [Notes](./2024_08_12.md) |
