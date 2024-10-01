@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2024** |||
+| September 30th, 2024 | [Querying Metrics with OxQL](https://youtu.be/RTsXM3kcAaI) | [Notes](./2024_09_30.md) |
 | September 23rd, 2024 | [RTO or GTFO](https://youtu.be/Y-cC5pUXjbQ) | [Notes](./2024_09_23.md) |
 | September 16th, 2024 | [Reflecting on Founder Mode](https://youtu.be/Ch9R4ZxvtG0) | [Notes](./2024_09_16.md) |
 | August 26th, 2024 | [RFDs: The Backbone of Oxide](https://youtu.be/rCdeAtMPcJc) | [Notes](./2024_08_26.md) |
