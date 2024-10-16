@@ -28,7 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2024** |||
-| October 14th, 2024 | [Unshrouding Turin (or Benvenuto a Torino)](https://youtu.be/9iJ2T5IHp8E) | [Notes](./2024_10_14.md) |
+| October 14th, 2024 | [Unshrouding Turin (or Benvenuto a Torino)](https://youtu.be/xcMMficnQwo) | [Notes](./2024_10_14.md) |
 | September 30th, 2024 | [Querying Metrics with OxQL](https://youtu.be/RTsXM3kcAaI) | [Notes](./2024_09_30.md) |
 | September 23rd, 2024 | [RTO or GTFO](https://youtu.be/Y-cC5pUXjbQ) | [Notes](./2024_09_23.md) |
 | September 16th, 2024 | [Reflecting on Founder Mode](https://youtu.be/Ch9R4ZxvtG0) | [Notes](./2024_09_16.md) |
