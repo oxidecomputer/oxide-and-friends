@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2024** |||
+| November 18th, 2024 | [Technical Blogging](https://youtu.be/5fYKYakP_f0) | [Notes](./2024_11_18.md) |
 | October 28th, 2024 | [Books in the Box IV](https://youtu.be/FDPaPU5aRd0) | [Notes](./2024_10_28.md) |
 | October 14th, 2024 | [Unshrouding Turin (or Benvenuto a Torino)](https://youtu.be/xcMMficnQwo) | [Notes](./2024_10_14.md) |
 | September 30th, 2024 | [Querying Metrics with OxQL](https://youtu.be/RTsXM3kcAaI) | [Notes](./2024_09_30.md) |
