@@ -7,8 +7,8 @@ and recording them all; here is
 [the recording]().
 
 In addition to
-[Bryan Cantrill](https://mastodon.social/@bcantrill) and
-[Adam Leventhal](https://mastodon.social/@ahl),
+[Bryan Cantrill](https://bsky.app/profile/bcantrill.bsky.social) and
+[Adam Leventhal](https://bsky.app/profile/ahl.bsky.social),
 speakers included
 [XXX](),
 and [YY]().
