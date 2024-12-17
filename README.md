@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2024** |||
+| December 16th, 2024 | [Scaling Bluesky with Paul Frazee](https://youtu.be/5axpWF48bwQ) | [Notes](./2024_12_16.md) |
 | December 9th, 2024 | [Conferences in Tech](https://youtu.be/YBId0FLKxCo) | [Notes](./2024_12_09.md) |
 | December 2nd, 2024 | [Intel after Gelsinger](https://youtu.be/aMqrE2G3gBQ) | [Notes](./2024_12_02.md) |
 | November 18th, 2024 | [Technical Blogging](https://youtu.be/5fYKYakP_f0) | [Notes](./2024_11_18.md) |
