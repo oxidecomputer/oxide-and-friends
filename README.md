@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2025** |||
+| January 13th, 2025 | [Crates We Love](https://youtu.be/BTnrXDjxbBw) | [Notes](./2025_01_13.md) |
 | January 6th, 2025 | [Predictions 2025](https://youtu.be/-pk6VokHpGY) | [Notes](./2025_01_06.md) |
 | **2024** |||
 | December 23, 2024 | [OxF 2024 Wrap-Up](https://youtu.be/mZd1KZuQ0gE) | [Notes](./2024_12_23.md) |
