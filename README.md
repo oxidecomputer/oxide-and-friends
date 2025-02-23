@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2025** |||
+| February 17th, 2025 | [A Half-Century of Silicon Valley with Randy Shoup](https://youtu.be/-9WuDTGXMVc) | [Notes](./2025_02_17.md) |
 | February 10th, 2025 | [Textual UIs with Orhun Parmaksız](https://youtu.be/VbLz79trgz8) | [Notes](./2025_02_10.md) |
 | February 3rd, 2025 | [AI Disruption: DeepSeek and Cerebras](https://youtu.be/NfR3CUkfOVo) | [Notes](./2025_02_03.md) |
 | January 20th, 2025 | [Holistic Engineering with Robert Mustacchi](https://youtu.be/5qZK2qLReUo) | [Notes](./2025_01_20.md) |
