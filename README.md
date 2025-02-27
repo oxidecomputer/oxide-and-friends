@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2025** |||
+| February 24th, 2025 | [Transparency in Hardware/Software Interfaces](https://youtu.be/6HcBFB6wUlQ) | [Notes](./2025_02_24.md) |
 | February 17th, 2025 | [A Half-Century of Silicon Valley with Randy Shoup](https://youtu.be/-9WuDTGXMVc) | [Notes](./2025_02_17.md) |
 | February 10th, 2025 | [Textual UIs with Orhun Parmaksız](https://youtu.be/VbLz79trgz8) | [Notes](./2025_02_10.md) |
 | February 3rd, 2025 | [AI Disruption: DeepSeek and Cerebras](https://youtu.be/NfR3CUkfOVo) | [Notes](./2025_02_03.md) |
