@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2025** |||
+| March 3rd, 2025 | [A Crate is Born](https://youtu.be/BTdxuOwV1eY) | [Notes](./2025_03_03.md) |
 | February 24th, 2025 | [Transparency in Hardware/Software Interfaces](https://youtu.be/6HcBFB6wUlQ) | [Notes](./2025_02_24.md) |
 | February 17th, 2025 | [A Half-Century of Silicon Valley with Randy Shoup](https://youtu.be/-9WuDTGXMVc) | [Notes](./2025_02_17.md) |
 | February 10th, 2025 | [Textual UIs with Orhun Parmaksız](https://youtu.be/VbLz79trgz8) | [Notes](./2025_02_10.md) |
