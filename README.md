@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2025** |||
+| March 10th, 2025 | [A Happy Day For Rust](https://youtu.be/zCTR5_FM4uA) | [Notes](./2025_03_10.md) |
 | March 3rd, 2025 | [A Crate is Born](https://youtu.be/BTdxuOwV1eY) | [Notes](./2025_03_03.md) |
 | February 24th, 2025 | [Transparency in Hardware/Software Interfaces](https://youtu.be/6HcBFB6wUlQ) | [Notes](./2025_02_24.md) |
 | February 17th, 2025 | [A Half-Century of Silicon Valley with Randy Shoup](https://youtu.be/-9WuDTGXMVc) | [Notes](./2025_02_17.md) |
