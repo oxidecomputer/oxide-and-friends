@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2025** |||
+| March 31st, 2025 | [Hell is other networks](https://youtu.be/1wBZ39q1I80) | [Notes](./2025_03_31.md) |
 | March 24th, 2025 | [Raiding the minibar](https://youtu.be/R3FBuE2nJx4) | [Notes](./2025_03_24.md) |
 | March 17th, 2025 | [Lip-Bu Tan's Intel](https://youtu.be/-sYvYYSxz2Y) | [Notes](./2025_03_17.md) |
 | March 11th, 2025 | [A Happy Day For Rust](https://youtu.be/zCTR5_FM4uA) | [Notes](./2025_03_11.md) |
