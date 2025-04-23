@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2025** |||
+| April 21st, 2025 | [Bringing up Cosmo](https://youtu.be/SVFa-W3cH-g) | [Notes](./2025_04_21.md) |
 | April 14th, 2025 | [Character Limit with Kate Conger and Ryan Mac](https://youtu.be/kiy-g09o-TA) | [Notes](./2025_04_14.md) |
 | March 31st, 2025 | [Hell is other networks](https://youtu.be/1wBZ39q1I80) | [Notes](./2025_03_31.md) |
 | March 24th, 2025 | [Raiding the minibar](https://youtu.be/R3FBuE2nJx4) | [Notes](./2025_03_24.md) |
