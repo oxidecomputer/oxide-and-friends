@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2025** |||
+| May 5th, 2025 | [Solutions software engineering with Matthew Sanabria](https://youtu.be/uY6YgNc7vkY) | [Notes](./2025_05_05.md) |
 | April 28th, 2025 | [Shootout at the CNC Corral](https://youtu.be/dYIgswVvIt0) | [Notes](./2025_04_28.md) |
 | April 21st, 2025 | [Bringing up Cosmo](https://youtu.be/SVFa-W3cH-g) | [Notes](./2025_04_21.md) |
 | April 14th, 2025 | [Character Limit with Kate Conger and Ryan Mac](https://youtu.be/kiy-g09o-TA) | [Notes](./2025_04_14.md) |
