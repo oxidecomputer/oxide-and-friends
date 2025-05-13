@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2025** |||
+| May 12th, 2025 | [RIP USENIX ATC](https://youtu.be/kd6dIonsxUw) | [Notes](./2025_05_12.md) |
 | May 5th, 2025 | [Solutions software engineering with Matthew Sanabria](https://youtu.be/uY6YgNc7vkY) | [Notes](./2025_05_05.md) |
 | April 28th, 2025 | [Shootout at the CNC Corral](https://youtu.be/dYIgswVvIt0) | [Notes](./2025_04_28.md) |
 | April 21st, 2025 | [Bringing up Cosmo](https://youtu.be/SVFa-W3cH-g) | [Notes](./2025_04_21.md) |
