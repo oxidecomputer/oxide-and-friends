@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2025** |||
+| May 19th, 2025 | [AI, Materials, and Fraud with Ben Shindel](https://youtu.be/qRjRkYs0x9k) | [Notes](./2025_05_19.md) |
 | May 12th, 2025 | [RIP USENIX ATC](https://youtu.be/kd6dIonsxUw) | [Notes](./2025_05_12.md) |
 | May 5th, 2025 | [Solutions software engineering with Matthew Sanabria](https://youtu.be/uY6YgNc7vkY) | [Notes](./2025_05_05.md) |
 | April 28th, 2025 | [Shootout at the CNC Corral](https://youtu.be/dYIgswVvIt0) | [Notes](./2025_04_28.md) |
