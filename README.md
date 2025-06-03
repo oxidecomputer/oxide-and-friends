@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2025** |||
+| June 2nd, 2025 | [AI Discourse with Steve Klabnik](https://youtu.be/Rpan3XUT3AE) | [Notes](./2025_06_02.md) |
 | May 19th, 2025 | [AI, Materials, and Fraud with Ben Shindel](https://youtu.be/qRjRkYs0x9k) | [Notes](./2025_05_19.md) |
 | May 12th, 2025 | [RIP USENIX ATC](https://youtu.be/kd6dIonsxUw) | [Notes](./2025_05_12.md) |
 | May 5th, 2025 | [Solutions software engineering with Matthew Sanabria](https://youtu.be/uY6YgNc7vkY) | [Notes](./2025_05_05.md) |
