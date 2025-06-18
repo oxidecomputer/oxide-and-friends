@@ -28,7 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2025** |||
-| June 16th, 2025 | [Diving in with Robert Bogard](https://youtu.be/3z_TQxe9jx4) | [Notes](./2025_06_16.md) |
+| June 16th, 2025 | [Diving in with Robert Bogart](https://youtu.be/3z_TQxe9jx4) | [Notes](./2025_06_16.md) |
 | June 9th, 2025 | [Debugger-driven Development](https://youtu.be/hdqcrj5TBvE) | [Notes](./2025_06_09.md) |
 | June 2nd, 2025 | [AI Discourse with Steve Klabnik](https://youtu.be/rOIDw38CEu8) | [Notes](./2025_06_02.md) |
 | May 19th, 2025 | [AI, Materials, and Fraud with Ben Shindel](https://youtu.be/qRjRkYs0x9k) | [Notes](./2025_05_19.md) |
