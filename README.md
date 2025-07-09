@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2025** |||
+| July 7th, 2025 | [Adventure in Data Corruption](https://youtu.be/Nq7ranhHXwA) | [Notes](./2025_07_07.md) |
 | June 23rd, 2025 | [When `async` Attacks!](https://youtu.be/4nU4JDG_zPs) | [Notes](./2025_06_23.md) |
 | June 16th, 2025 | [Diving In with Robert Bogart](https://youtu.be/3z_TQxe9jx4) | [Notes](./2025_06_16.md) |
 | June 9th, 2025 | [Debugger-driven Development](https://youtu.be/hdqcrj5TBvE) | [Notes](./2025_06_09.md) |
