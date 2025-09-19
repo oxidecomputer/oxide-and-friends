@@ -28,7 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2025** |||
-| September 15th, 2025 | [Scaling Manufacturing]() | [Notes](./2025_09_15.md) |
+| September 15th, 2025 | [Scaling Manufacturing](https://youtu.be/MhlR6JkGyDY) | [Notes](./2025_09_15.md) |
 | September 8th, 2025 | [Technological Revolutions with Jerry Neumann](https://youtu.be/-jZXEsconl4) | [Notes](./2025_09_08.md) |
 | August 11th, 2025 | [The Promises of Tech with Scott Hanselman](https://youtu.be/Clk_3Ihy4BA) | [Notes](./2025_08_11.md) |
 | August 4th, 2025 | [Oxide's $100M Series B](https://youtu.be/TMnTC1OhDs8) | [Notes](./2025_08_04.md) |
