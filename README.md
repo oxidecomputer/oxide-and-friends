@@ -29,7 +29,7 @@ Here are the shows we've done, in reverse chronological order:
 | ---- | ---- | ---- |
 | **2025** |||
 | October 13th, 2025 | [AI in Higher Education with Michael Littman](https://youtu.be/Q2vcupDdIfc) | [Notes](./2025_10_13.md) |
-| September 22nd, 2025 | [Systems Software in the Large](https://youtu.be/MhlR6JkGyDY) | [Notes](./2025_09_22.md) |
+| September 22nd, 2025 | [Systems Software in the Large](https://youtu.be/rrgp4WXnA5Y) | [Notes](./2025_09_22.md) |
 | September 15th, 2025 | [Scaling Manufacturing](https://youtu.be/MhlR6JkGyDY) | [Notes](./2025_09_15.md) |
 | September 8th, 2025 | [Technological Revolutions with Jerry Neumann](https://youtu.be/-jZXEsconl4) | [Notes](./2025_09_08.md) |
 | August 11th, 2025 | [The Promises of Tech with Scott Hanselman](https://youtu.be/Clk_3Ihy4BA) | [Notes](./2025_08_11.md) |
