@@ -5,7 +5,7 @@
 [![Discord server](https://img.shields.io/discord/1042492311080288306?label=stage)](https://discord.gg/gcQxNHAKCB)
 
 [We're pretty excited about 
-Social Audio](http://dtrace.org/blogs/bmc/2021/05/02/twitter-spaces-a-few-weeks-in/)
+Social Audio](https://bcantrill.dtrace.org/2021/05/02/twitter-spaces-a-few-weeks-in/)
 and have been hosting a show pretty most weeks. The live show is on our Discord
 server using the Stage Channel feature; You can join
 [here](https://discord.gg/gcQxNHAKCB) and [subscribe to our events
@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2025** |||
+| October 27th, 2025 | [Books in the Box V](https://youtu.be/jBduzUVORnk) | [Notes](./2025_10_27.md) |
 | October 13th, 2025 | [AI in Higher Education with Michael Littman](https://youtu.be/Q2vcupDdIfc) | [Notes](./2025_10_13.md) |
 | September 22nd, 2025 | [Systems Software in the Large](https://youtu.be/MhlR6JkGyDY) | [Notes](./2025_09_22.md) |
 | September 15th, 2025 | [Scaling Manufacturing](https://youtu.be/MhlR6JkGyDY) | [Notes](./2025_09_15.md) |
