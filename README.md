@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2025** |||
+| November 3rd, 2025 | [Futurelock](https://youtu.be/cqpLGvalyrI) | [Notes](./2025_11_03.md) |
 | October 27th, 2025 | [Books in the Box V](https://youtu.be/jBduzUVORnk) | [Notes](./2025_10_27.md) |
 | October 13th, 2025 | [AI in Higher Education with Michael Littman](https://youtu.be/Q2vcupDdIfc) | [Notes](./2025_10_13.md) |
 | September 22nd, 2025 | [Systems Software in the Large](https://youtu.be/MhlR6JkGyDY) | [Notes](./2025_09_22.md) |
