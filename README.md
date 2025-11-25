@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2025** |||
+| November 24th, 2025 | [A Grown-up ZFS data corruption bug](https://youtu.be/96QCoaHAhgM) | [Notes](./2025_11_24.md) |
 | November 17th, 2025 | [Founder vs. Investor with Liz Zalman and Jerry Neumann](https://youtu.be/Yi2AlKzD_vA) | [Notes](./2025_11_17.md) |
 | November 3rd, 2025 | [Futurelock](https://youtu.be/cqpLGvalyrI) | [Notes](./2025_11_03.md) |
 | October 27th, 2025 | [Books in the Box V](https://youtu.be/jBduzUVORnk) | [Notes](./2025_10_27.md) |
