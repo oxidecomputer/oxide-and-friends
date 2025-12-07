@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2025** |||
+| December 1st, 2025 | [Death by Uptime](https://youtu.be/JFtCJVxuug8) | [Notes](./2025_12_01.md) |
 | November 24th, 2025 | [A Grown-up ZFS Data Corruption Bug](https://youtu.be/srKYxF66A0c) | [Notes](./2025_11_24.md) |
 | November 17th, 2025 | [Founder vs. Investor with Liz Zalman and Jerry Neumann](https://youtu.be/Yi2AlKzD_vA) | [Notes](./2025_11_17.md) |
 | November 3rd, 2025 | [Futurelock](https://youtu.be/cqpLGvalyrI) | [Notes](./2025_11_03.md) |
