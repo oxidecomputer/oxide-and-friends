@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2025** |||
+| December 15th, 2025 | [OxF 2025 Wrap-Up](https://youtu.be/kGNoSYQchS8) | [Notes](./2025_12_15.md) |
 | December 1st, 2025 | [Death by Uptime](https://youtu.be/JFtCJVxuug8) | [Notes](./2025_12_01.md) |
 | November 24th, 2025 | [A Grown-up ZFS Data Corruption Bug](https://youtu.be/srKYxF66A0c) | [Notes](./2025_11_24.md) |
 | November 17th, 2025 | [Founder vs. Investor with Liz Zalman and Jerry Neumann](https://youtu.be/Yi2AlKzD_vA) | [Notes](./2025_11_17.md) |
@@ -63,7 +64,7 @@ Here are the shows we've done, in reverse chronological order:
 | January 13th, 2025 | [Crates We Love](https://youtu.be/BTnrXDjxbBw) | [Notes](./2025_01_13.md) |
 | January 6th, 2025 | [Predictions 2025](https://youtu.be/-pk6VokHpGY) | [Notes](./2025_01_06.md) |
 | **2024** |||
-| December 23, 2024 | [OxF 2024 Wrap-Up](https://youtu.be/mZd1KZuQ0gE) | [Notes](./2024_12_23.md) |
+| December 23rd, 2024 | [OxF 2024 Wrap-Up](https://youtu.be/mZd1KZuQ0gE) | [Notes](./2024_12_23.md) |
 | December 16th, 2024 | [Scaling Bluesky with Paul Frazee](https://youtu.be/5axpWF48bwQ) | [Notes](./2024_12_16.md) |
 | December 9th, 2024 | [Conferences in Tech](https://youtu.be/YBId0FLKxCo) | [Notes](./2024_12_09.md) |
 | December 2nd, 2024 | [Intel after Gelsinger](https://youtu.be/aMqrE2G3gBQ) | [Notes](./2024_12_02.md) |
