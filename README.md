@@ -27,6 +27,8 @@ Here are the shows we've done, in reverse chronological order:
 
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
+| **2026** |||
+| January 5th, 2026 | [Predictions 2026!!](xxx) | [Notes](./2026_01_05.md) |
 | **2025** |||
 | December 15th, 2025 | [OxF 2025 Wrap-Up](https://youtu.be/kGNoSYQchS8) | [Notes](./2025_12_15.md) |
 | December 1st, 2025 | [Death by Uptime](https://youtu.be/JFtCJVxuug8) | [Notes](./2025_12_01.md) |
