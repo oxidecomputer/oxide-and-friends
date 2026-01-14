@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2026** |||
+| January 12th, 2026 | [Engineering Rigor in the LLM Age](https://youtu.be/fmFt4-jjEc0) | [Notes](./2026_01_12.md) |
 | January 5th, 2026 | [Predictions 2026!!](https://youtu.be/lVDhQMiAbR8) | [Notes](./2026_01_05.md) |
 | **2025** |||
 | December 15th, 2025 | [OxF 2025 Wrap-Up](https://youtu.be/kGNoSYQchS8) | [Notes](./2025_12_15.md) |
