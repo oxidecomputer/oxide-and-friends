@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2026** |||
+| February 23rd, 2026 | [Oxide's $200M Series C](https://youtu.be/VO-tcU2a4vU) | [Notes](./2026_02_23.md) |
 | February 9th, 2026 | [Shell Game with Evan Ratliff](https://youtu.be/nBDXDbZL59g) | [Notes](./2026_02_09.md) |
 | February 2nd, 2026 | [Software Engineering Past, Present, and Future with Grady Booch](https://youtu.be/McAL6jkRUO4) | [Notes](./2026_02_02.md) |
 | January 12th, 2026 | [Engineering Rigor in the LLM Age](https://youtu.be/fmFt4-jjEc0) | [Notes](./2026_01_12.md) |
