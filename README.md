@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2026** |||
+| April 27th, 2026 | [Mechanical Engineering at Oxide](https://youtu.be/sF0xVSenfGk) | [Notes](./2026_04_27.md) |
 | April 20th, 2026 | [Are LLMs Insufficiently Lazy?](https://youtu.be/iREJYxgzNP8) | [Notes](./2026_04_20.md) |
 | March 30th, 2026 | [Building a Quorum of Trust in the Oxide Rack](https://youtu.be/Cn9hACi9S5o) | [Notes](./2026_03_30.md) |
 | March 2nd, 2026 | [When Nine Nines Isn't Enough](https://youtu.be/zUwmc_-SLFg) | [Notes](./2026_03_02.md) |
