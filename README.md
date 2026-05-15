@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2026** |||
+| May 11th, 2026 | [The Tale of Reverso](https://youtu.be/uuvADD4ISBg) | [Notes](./2026_05_11.md) |
 | May 4th, 2026 | [AI in Computer Science Education](https://youtu.be/iSOdBO9I6q8) | [Notes](./2026_05_04.md) |
 | April 27th, 2026 | [Mechanical Engineering at Oxide](https://youtu.be/sF0xVSenfGk) | [Notes](./2026_04_27.md) |
 | April 20th, 2026 | [Are LLMs Insufficiently Lazy?](https://youtu.be/iREJYxgzNP8) | [Notes](./2026_04_20.md) |
