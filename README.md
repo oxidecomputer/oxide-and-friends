@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2026** |||
+| June 22nd, 2026 | [The Oxide 3D Explorer](https://youtu.be/-OH_iYX1msM) | [Notes](./2026_06_22.md) |
 | June 8th, 2026 | [The Hardest Kind of Unsafe Rust](https://youtu.be/mdcu3dKMjyg) | [Notes](./2026_06_08.md) |
 | June 1st, 2026 | [This Old Repo: LLMs and the Restoration of BattleTris](https://youtu.be/mfulfhTWTQA) | [Notes](./2026_06_01.md) |
 | May 18th, 2026 | [Rooting for the Home Team with Paul Freedman and Bryan Carmel](https://youtu.be/Iapkf76nHy8) | [Notes](./2026_05_18.md) |
