@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2026** |||
+| July 27th, 2026 | [The Open Weight Revolution with Simon Willison](https://youtu.be/f_6TzmifxnI) | [Notes](./2026_07_27.md) |
 | July 20th, 2026 | [The Past, Present, and Future of Digital Storytelling with Ramy Katrib](https://youtu.be/-M2kKpsxdfg) | [Notes](./2026_07_20.md) |
 | June 22nd, 2026 | [The Oxide 3D Explorer](https://youtu.be/-OH_iYX1msM) | [Notes](./2026_06_22.md) |
 | June 8th, 2026 | [The Hardest Kind of Unsafe Rust](https://youtu.be/mdcu3dKMjyg) | [Notes](./2026_06_08.md) |
