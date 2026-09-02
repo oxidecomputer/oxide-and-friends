@@ -28,6 +28,8 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2026** |||
+| August 31st, 2026 | [AI Detection with Max Spero](https://youtu.be/5RdOf7d7hTE) | [Notes](./2026_08_31.md) |
+| August 24th, 2026 | [Emulating Oxide: How Faux Can You Go?]() | [Notes](./2026_08_24.md) |
 | August 17th, 2026 | [The Return to the Chamber of Mysteries](https://youtu.be/3ISaxz5TKnk) | [Notes](./2026_08_17.md) |
 | July 27th, 2026 | [The Open Weight Revolution with Simon Willison](https://youtu.be/f_6TzmifxnI) | [Notes](./2026_07_27.md) |
 | July 20th, 2026 | [The Past, Present, and Future of Digital Storytelling with Ramy Katrib](https://youtu.be/-M2kKpsxdfg) | [Notes](./2026_07_20.md) |
