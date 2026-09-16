@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2026** |||
+| September 14th, 2026 | [For Want of a Resistor](https://youtu.be/VLI_yo1YNrk) | [Notes](./2026_09_14.md) |
 | August 31st, 2026 | [AI Detection with Max Spero](https://youtu.be/5RdOf7d7hTE) | [Notes](./2026_08_31.md) |
 | August 24th, 2026 | [Emulating Oxide: How Faux Can You Go?](https://youtu.be/RdH7oQ1ddcA) | [Notes](./2026_08_24.md) |
 | August 17th, 2026 | [The Return to the Chamber of Mysteries](https://youtu.be/3ISaxz5TKnk) | [Notes](./2026_08_17.md) |
