@@ -28,6 +28,7 @@ Here are the shows we've done, in reverse chronological order:
 | Date | Recording | Notes |
 | ---- | ---- | ---- |
 | **2026** |||
+| October 19th, 2026 | [Dead Printers Tell No Tales](https://youtu.be/XloIUctqfGc) | [Notes](./2026_10_19.md) |
 | October 12th, 2026 | [Oxide's $445M Series D](https://youtu.be/hhTO8d0R3to) | [Notes](./2026_10_12.md) |
 | October 5th, 2026 | [Working on Wicked Problems](https://youtu.be/iQ8vzL20cC0) | [Notes](./2026_10_05.md) |
 | September 14th, 2026 | [For Want of a Resistor](https://youtu.be/VLI_yo1YNrk) | [Notes](./2026_09_14.md) |
